@@ -1,8 +1,7 @@
 ---
 title: "Backend: The /check-code Endpoint"
 description: "Add the POST /check-code endpoint that validates the OTP code with Vonage and returns a verified result to the client."
-prev: { text: "The /verification Endpoint", link: "./06-backend-start-verification" }
-next: { text: "Callback and Next Workflow", link: "./08-backend-callback-next" }
+step: 7
 ---
 
 # Backend: The `/check-code` Endpoint

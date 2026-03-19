@@ -1,8 +1,7 @@
 ---
 title: "Backend: Add the Vonage SDK"
 description: "Initialise the Vonage Auth and Verify2 clients in server.js and understand how JWT authentication works."
-prev: { text: "Vonage Setup", link: "./03-vonage-setup" }
-next: { text: "The Verification Store", link: "./05-backend-store" }
+step: 4
 ---
 
 # Backend: Add the Vonage SDK

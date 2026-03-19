@@ -1,8 +1,6 @@
 ---
 title: "What We're Building"
 description: "A high-level look at the 2FA with Silent Auth — what it does, how it works, and what you'll build across this tutorial."
-prev: false
-next: { text: "Backend: Project Setup", link: "./01-backend-init" }
 ---
 
 # What We're Building

@@ -1,8 +1,7 @@
 ---
 title: "Backend: The /verification Endpoint"
 description: "Add the POST /verification endpoint that starts a Vonage Verify request, stores the entry, and returns request_id and check_url to the client."
-prev: { text: "The Verification Store", link: "./05-backend-store" }
-next: { text: "The /check-code Endpoint", link: "./07-backend-check-code" }
+step: 6
 ---
 
 # Backend: The `/verification` Endpoint

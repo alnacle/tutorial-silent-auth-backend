@@ -1,8 +1,7 @@
 ---
 title: "Backend: Callback and Next Workflow"
 description: "Add the /callback webhook that receives status updates from Vonage, the /next endpoint that forces SMS fallback, and configure the callback URL in the Vonage Dashboard."
-prev: { text: "The /check-code Endpoint", link: "./07-backend-check-code" }
-next: { text: "Android: New Project", link: "./09-android-new-project" }
+step: 8
 ---
 
 # Backend: Callback and Next Workflow

@@ -1,8 +1,7 @@
 ---
 title: "Backend: Project Setup"
 description: "Create the server folder, initialise npm, install dependencies, and set up .gitignore."
-prev: { text: "Overview", link: "./index" }
-next: { text: "Minimal Server", link: "./02-backend-minimal-server" }
+step: 1
 ---
 
 # Backend: Project Setup

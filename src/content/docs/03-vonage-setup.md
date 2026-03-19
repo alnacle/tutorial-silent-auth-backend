@@ -1,8 +1,7 @@
 ---
 title: "Vonage: Create an Application and Configure Credentials"
 description: "Create a Vonage Application in the Dashboard, download your private key, and configure the backend with your credentials."
-prev: { text: "Minimal Server", link: "./02-backend-minimal-server" }
-next: { text: "Backend: Vonage SDK", link: "./04-backend-vonage-sdk" }
+step: 3
 ---
 
 # Vonage: Create an Application and Configure Credentials

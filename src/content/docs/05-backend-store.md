@@ -1,8 +1,7 @@
 ---
 title: "Backend: The Verification Store"
 description: "Understand why the backend needs to track verification state, then add a simple in-memory Map to do it."
-prev: { text: "Vonage SDK", link: "./04-backend-vonage-sdk" }
-next: { text: "The /verification Endpoint", link: "./06-backend-start-verification" }
+step: 5
 ---
 
 # Backend: The Verification Store
