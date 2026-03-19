@@ -69,3 +69,4 @@ You will need:
 | 06 | `/verification` | Start a verification request |
 | 07 | `/check-code` | Validate a code |
 | 08 | `/callback` + `/next` | Webhook + fallback trigger |
+| 09 | Coding Exercise: Rate Limiter | Implement a rate limiter as coding exercise  |

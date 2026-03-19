@@ -153,6 +153,22 @@ Vonage newRequest result: { requestId: 'aaa-bbb-ccc-ddd', checkUrl: 'https://...
 
 ---
 
+## Coding Exercise
+
+We propose adding a new status endpoint for the mobile app. This endpoint will query the `verificationStore` map and return the entry associated with the given `request_id`.
+
+```js
+app.get("/status/:request_id", (req, res) => {
+
+    /** Your code goes here **/
+
+});
+```
+
+The new method is especially useful for Silent Auth because the app could poll every 1–2 seconds for a short period instead of waiting blindly.
+
+---
+
 ## Checkpoint
 
 - [ ] `POST /verification` with a valid phone returns `request_id` and `check_url`

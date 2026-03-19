@@ -348,3 +348,6 @@ Callback for unknown request_id: test-id
 - [ ] The backend is fully implemented — all five endpoints are working
 
 The backend is complete. In the next tutorial, you'll build the Android app that drives this flow from the user's side.
+
+> Don't close this tutorial as you'll need the backend running to complete the Android app
+
