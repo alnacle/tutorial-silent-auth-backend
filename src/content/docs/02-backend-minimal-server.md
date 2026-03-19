@@ -1,8 +1,7 @@
 ---
 title: "Backend: A Minimal Server"
 description: "Create the first version of server.js with a health endpoint, start it with nodemon, and confirm it's running with cURL."
-prev: { text: "Project Setup", link: "./01-backend-init" }
-next: { text: "Vonage Setup", link: "./03-vonage-setup" }
+step: 2
 ---
 
 # Backend: A Minimal Server
