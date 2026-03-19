@@ -1,10 +1,8 @@
 ---
-title: "Backend: The Verification Store"
+title: "The Verification Store"
 description: "Understand why the backend needs to track verification state, then add a simple in-memory Map to do it."
 step: 5
 ---
-
-# Backend: The Verification Store
 
 Before you add any endpoints, it's worth understanding *why* the backend needs to remember what's happening with each verification request. This will make the code you write in the next few steps much easier to reason about.
 

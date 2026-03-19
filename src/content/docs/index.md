@@ -3,8 +3,6 @@ title: "What We're Building"
 description: "A high-level look at the 2FA with Silent Auth — what it does, how it works, and what you'll build across this tutorial."
 ---
 
-# What We're Building
-
 In this tutorial you'll build a complete **two-factor authentication (2FA) system** using [Vonage Verify v2](https://developer.vonage.com/en/verify/overview). It uses **Silent Authentication** as the primary channel — no OTP required when it works — and falls back to **SMS** when it can't.
 
 By the end you'll have:
@@ -66,17 +64,8 @@ You will need:
 | 01 | Backend: Project Init | Create `server/`, install deps |
 | 02 | Backend: Minimal Server | First working `server.js`, first cURL test |
 | 03 | Vonage Setup | Create Vonage Application, configure credentials |
-| 04 | Backend: Vonage SDK | Add auth + Verify client |
-| 05 | Backend: Verification Store | Add in-memory state map |
-| 06 | Backend: `/verification` | Start a verification request |
-| 07 | Backend: `/check-code` | Validate a code |
-| 08 | Backend: `/callback` + `/next` | Webhook + fallback trigger |
-| 09 | Android: New Project | Create project in Android Studio |
-| 10 | Android: Dependencies | Add all required libraries |
-| 11 | Android: Configuration | Permissions, backend URL |
-| 12 | Android: Verify Setup | Minimal counter app smoke test |
-| 13 | Android: UI States | State machine for the UI |
-| 14 | Android: UI Layout | Full verification screen |
-| 15 | Android: Networking | Backend API calls |
-| 16 | Android: Silent Auth | Vonage Client SDK integration |
-| 17 | End-to-End Testing | Full flow, common issues |
+| 04 | Vonage SDK | Add auth + Verify client |
+| 05 | Verification Store | Add in-memory state map |
+| 06 | `/verification` | Start a verification request |
+| 07 | `/check-code` | Validate a code |
+| 08 | `/callback` + `/next` | Webhook + fallback trigger |

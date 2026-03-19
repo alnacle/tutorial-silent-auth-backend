@@ -1,10 +1,8 @@
 ---
-title: "Backend: A Minimal Server"
+title: "A Minimal Server"
 description: "Create the first version of server.js with a health endpoint, start it with nodemon, and confirm it's running with cURL."
 step: 2
 ---
-
-# Backend: A Minimal Server
 
 Before adding any Vonage logic, let's get a working Express server running. This gives you a fast feedback loop: make a change, save the file, and the server restarts automatically.
 

@@ -1,10 +1,8 @@
 ---
-title: "Backend: The /check-code Endpoint"
+title: "The /check-code Endpoint"
 description: "Add the POST /check-code endpoint that validates the OTP code with Vonage and returns a verified result to the client."
 step: 7
 ---
-
-# Backend: The `/check-code` Endpoint
 
 Once a user receives a code, either from Silent Authentication or SMS, the Android app sends it to this endpoint. The backend passes it to Vonage, which confirms whether it's valid, and returns a clear `verified` result to the client.
 

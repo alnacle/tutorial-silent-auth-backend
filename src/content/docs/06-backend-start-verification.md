@@ -1,10 +1,8 @@
 ---
-title: "Backend: The /verification Endpoint"
+title: "The /verification Endpoint"
 description: "Add the POST /verification endpoint that starts a Vonage Verify request, stores the entry, and returns request_id and check_url to the client."
 step: 6
 ---
-
-# Backend: The `/verification` Endpoint
 
 This is the first endpoint the Android app will call. The user enters their phone number, the app sends it here, and this endpoint asks Vonage to start a verification.
 

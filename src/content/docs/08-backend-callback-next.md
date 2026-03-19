@@ -1,10 +1,8 @@
 ---
-title: "Backend: Callback and Next Workflow"
+title: "Callback and Next Workflow"
 description: "Add the /callback webhook that receives status updates from Vonage, the /next endpoint that forces SMS fallback, and configure the callback URL in the Vonage Dashboard."
 step: 8
 ---
-
-# Backend: Callback and Next Workflow
 
 Two more endpoints complete the backend:
 

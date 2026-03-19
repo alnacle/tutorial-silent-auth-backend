@@ -1,10 +1,8 @@
 ---
-title: "Backend: Project Setup"
+title: "Project Setup"
 description: "Create the server folder, initialise npm, install dependencies, and set up .gitignore."
 step: 1
 ---
-
-# Backend: Project Setup
 
 In this step you'll create the backend project. 
 

@@ -1,10 +1,8 @@
 ---
-title: "Backend: Add the Vonage SDK"
-description: "Initialise the Vonage Auth and Verify2 clients in server.js and understand how JWT authentication works."
+title: "Add the Vonage SDK"
+description: "Initialise the Vonage Auth and Verify clients in server.js and understand how JWT authentication works."
 step: 4
 ---
-
-# Backend: Add the Vonage SDK
 
 Now that credentials are in place, let's connect the Vonage SDK to `server.js`. This is the piece that lets your backend start verifications and validate codes.
 

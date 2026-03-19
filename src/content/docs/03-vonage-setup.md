@@ -1,10 +1,8 @@
 ---
-title: "Vonage: Create an Application and Configure Credentials"
+title: "Auth: Configure Vonage Credentials"
 description: "Create a Vonage Application in the Dashboard, download your private key, and configure the backend with your credentials."
 step: 3
 ---
-
-# Vonage: Create an Application and Configure Credentials
 
 The Vonage Verify API uses **JWT authentication**. Your backend signs each request with a private key that proves it's allowed to call Vonage. In this step you'll add the credentials for the Vonage Application previously created, and wire your credentials into the backend.
 
