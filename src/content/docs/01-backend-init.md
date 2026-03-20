@@ -32,7 +32,7 @@ Here's what each package does:
 
 Two things must never end up in git: `node_modules` and your credentials.
 
-Create a `.gitignore` file inside `server/` and add the following:
+Create a `.gitignore` file inside `workspace/` and add the following:
 
 ```
 node_modules

@@ -61,7 +61,7 @@ You will need:
 
 | # | Page | What you'll do |
 |---|------|----------------|
-| 01 | Backend: Project Init | Create `server/`, install deps |
+| 01 | Backend: Project Init | Set up environment and install deps |
 | 02 | Backend: Minimal Server | First working `server.js`, first cURL test |
 | 03 | Vonage Setup | Create Vonage Application, configure credentials |
 | 04 | Vonage SDK | Add auth + Verify client |

@@ -38,7 +38,7 @@ VONAGE_PRIVATE_KEY=./private.key
 ```
 
 - `VONAGE_APP_ID` — the Application ID you copied from the Dashboard
-- `VONAGE_PRIVATE_KEY` — a relative path to the private key file; `./private.key` works if both files are in `server/`
+- `VONAGE_PRIVATE_KEY` — a relative path to the private key file; `./private.key` works if both files are in `workspace/`
 
 > Using a relative path like `./private.key` keeps the project portable — it works on any machine regardless of the absolute path.
 
@@ -82,7 +82,7 @@ Once confirmed, you can remove the `console.log` for the App ID (it's not a secr
 ## Your project structure so far
 
 ```
-server/
+workspace/
 ├── node_modules/
 ├── .env               ← credentials (ignored by git)
 ├── .gitignore
@@ -96,6 +96,6 @@ server/
 ## Checkpoint
 
 - [ ] Vonage Application created in the Dashboard with Network Registry enabled
-- [ ] `private.key` is in `server/` and listed in `.gitignore`
+- [ ] `private.key` is in `workspace/` and listed in `.gitignore`
 - [ ] `worspace/.env` has `VONAGE_APP_ID` and `VONAGE_PRIVATE_KEY`
 - [ ] `nodemon server.js` starts and shows the correct Application ID in the logs
